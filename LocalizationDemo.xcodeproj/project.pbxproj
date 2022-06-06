@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E0A1AF9284E15910000BDDE /* Utilites.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0A1AF8284E15910000BDDE /* Utilites.swift */; };
 		5E0F42B92849C51900F9D24F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0F42B82849C51900F9D24F /* AppDelegate.swift */; };
 		5E0F42BB2849C51900F9D24F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0F42BA2849C51900F9D24F /* SceneDelegate.swift */; };
 		5E0F42BD2849C51900F9D24F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0F42BC2849C51900F9D24F /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5E0A1AF8284E15910000BDDE /* Utilites.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilites.swift; sourceTree = "<group>"; };
 		5E0F42B52849C51900F9D24F /* LocalizationDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocalizationDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E0F42B82849C51900F9D24F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5E0F42BA2849C51900F9D24F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				5E0F42C32849C51E00F9D24F /* LaunchScreen.storyboard */,
 				5E0F42C62849C51E00F9D24F /* Info.plist */,
 				5E0F42D02849CCA400F9D24F /* strings.strings */,
+				5E0A1AF8284E15910000BDDE /* Utilites.swift */,
 			);
 			path = LocalizationDemo;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E0A1AF9284E15910000BDDE /* Utilites.swift in Sources */,
 				5E0F42BD2849C51900F9D24F /* ViewController.swift in Sources */,
 				5E0F42B92849C51900F9D24F /* AppDelegate.swift in Sources */,
 				5E0F42BB2849C51900F9D24F /* SceneDelegate.swift in Sources */,
