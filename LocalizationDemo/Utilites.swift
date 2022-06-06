@@ -9,5 +9,5 @@ import Foundation
 func add(){
     
     print("addition")
-    
+    print("multiply")
 }
