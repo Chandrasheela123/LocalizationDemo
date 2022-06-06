@@ -11,4 +11,5 @@ func add(){
     print("addition")
     print("sub")
     
+    print("multiply")
 }
