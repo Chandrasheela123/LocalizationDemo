@@ -8,4 +8,6 @@
 import Foundation
 func add(){
     
+    print("addition")
+    
 }
