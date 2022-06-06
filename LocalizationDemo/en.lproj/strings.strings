@@ -1,0 +1,20 @@
+/* 
+  strings.strings
+  LocalizationDemo
+
+  Created by cdp on 03/06/22.
+  
+*/
+"alert_err_title" = "ERROR";
+"alert_success_title" = "Success";
+
+"alert_err_msg" = "please fill all details";
+"alert_success_title" = "you are logged in..";
+
+"ok_btn" = "OK";
+"developer_name" = "chandrasheela";
+
+// app title
+
+"CFBundleName" = "LocalizationDemo";
+"CFBundleDisplayName" = "LocalizationDemo";

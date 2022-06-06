@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  LocalizationDemo
+
+  Created by cdp on 03/06/22.
+  
+*/
+"CFBundleName" = "Démo de localisation";
+"CFBundleDisplayName" = "Démo de localisation";

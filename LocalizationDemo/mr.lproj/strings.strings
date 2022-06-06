@@ -1,0 +1,21 @@
+/* 
+  strings.strings
+  LocalizationDemo
+
+  Created by cdp on 03/06/22.
+  
+*/
+"alert_err_title" = "चूक";
+"alert_success_title" = "यश";
+
+"alert_err_msg" = "कृपया सर्व तपशील भरा";
+"alert_success_title" = "तुम्ही लॉग इन आहात..";
+
+"ok_btn" = "ठीक आहे";
+"developer_name" = "चंद्रशीला";
+
+
+
+
+"CFBundleName" = "स्थानिकीकरण डेमो";
+"CFBundleDisplayName" = "स्थानिकीकरण डेमो";
